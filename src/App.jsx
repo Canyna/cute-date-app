@@ -148,7 +148,7 @@ export default function CuteDateProposal() {
         {!accepted ? (
           <>
             <h1 style={styles.title}>
-              Salut falcaoasa mica 💕
+              Salut falcoasa mica 💕
             </h1>
 
             <p style={styles.subtitle}>
