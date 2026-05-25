@@ -149,6 +149,7 @@ export default function CuteDateProposal() {
           <>
             <h1 style={styles.title}>
               Hellooo falcoasa mica 💕
+              Da,da tu Adriana
             </h1>
 
             <p style={styles.subtitle}>
