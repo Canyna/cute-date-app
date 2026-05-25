@@ -148,11 +148,11 @@ export default function CuteDateProposal() {
         {!accepted ? (
           <>
             <h1 style={styles.title}>
-              Salut falcoasa mica 💕
+              Hellooo falcoasa mica 💕
             </h1>
 
             <p style={styles.subtitle}>
-              vrei sa luam cina impreuna? 🥺🍷
+              Vrei sa luam cina impreuna? 🥺🍷
             </p>
 
             <div style={{ marginTop: 30 }}>
@@ -175,7 +175,7 @@ export default function CuteDateProposal() {
         ) : !submitted ? (
           <>
             <h2 style={styles.subtitle}>
-              pfeew credeam ca o sa spui nu 😳
+              Pfeew credeam ca o sa spui nu 😳
             </h2>
 
             <img
